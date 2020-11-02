@@ -1,1 +1,7 @@
-**Hi, I’m Raquib-ul.** I’m the founder and lead engineer of [Series Addict](https://play.google.com/store/apps/details?id=com.alamkanak.seriesaddict), but I also work as a deep learning research student for medical image analysis at University of Sydney, Australia. I've done Android stuff like [Android-Week-View](https://github.com/alamkanak/Android-Week-View). You can see some of my work in my [portfolio](https://alamkanak.github.io).
+**Hi, I’m Raquib-ul.** 
+
+Professionally, I work as a Senior Android Engineer with a flavor of Deep Learning integration. My Android experiences span over eight years.
+
+Academically, my research focusses on medical image and signal processing towards the development of machine learning and statistical models.
+
+You can see some of my work in my [portfolio](https://alamkanak.github.io).
